@@ -7,9 +7,7 @@ export const Container = styled.div`
   position: relative;
 
   background-image: url(${props => props.bg});
-  background-size: 160% auto;
-  background-position-x: 60%;
-  background-repeat: no-repeat;
+  background-size: 20%;
 `
 
 export const MainContainer = styled.div`
@@ -17,7 +15,7 @@ export const MainContainer = styled.div`
   flex-direction: column;
 
   padding: 20px;
-  margin-top: 60px;
+  margin: 120px 0;
   background: #f0f0f0;
   box-shadow: 0 0 30px #000;
 

@@ -37,6 +37,11 @@ function Home() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [document.readyState])
 
+  // Update page title
+  useEffect(() => {
+    document.title = "League Stats - " + searchUser;
+  }, [searchUser])
+
   // Get UserData
   useEffect(() => {
     api.get(`/user/${searchUser}`).then(response => {
