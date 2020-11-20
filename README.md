@@ -124,4 +124,4 @@ Eduardo Zotelli Ferraz - eduardozf1@gmail.com
 [issues-url]: https://github.com/eduardozf/LeagueStats/issues
 [license-shield]: https://img.shields.io/github/license/eduardozf/LeagueStats.svg?style=flat-square
 [license-url]: https://github.com/eduardozf/LeagueStats/blob/master/LICENSE.txt
-[product-screenshot]: https://i.imgur.com/ou9wkun.jpeg
+[product-screenshot]: https://i.imgur.com/CucK7lm.png
