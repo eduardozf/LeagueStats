@@ -39,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
-[![Product Name Screen Shot][product-screenshot]](https://i.imgur.com/ou9wkun.jpeg)
+[![Product Name Screen Shot][product-screenshot]](https://i.imgur.com/CucK7lm.png)
 
 Possibilita  visualizar estatisticas de usuário do League of Legends BR.
 
