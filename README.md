@@ -6,8 +6,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -22,7 +20,8 @@
   </p>
 </p>
 
-
+> [!WARNING]  
+> **Aviso:** Este projeto está desatualizado e não receberá mais atualizações. Ele não representa o meu conhecimento atual.
 
 <!-- TABLE OF CONTENTS -->
 ## Sumário
